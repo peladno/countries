@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">paises</string>
+    <string name="select_country">Selecciona un país para ver la cantidad de habitantes</string>
+</resources>
